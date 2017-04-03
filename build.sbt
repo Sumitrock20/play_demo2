@@ -1,4 +1,4 @@
-me := """example-app"""
+name := """example-app"""
 
 version := "1.0-SNAPSHOT"
 
